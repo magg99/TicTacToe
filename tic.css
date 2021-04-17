@@ -1,0 +1,28 @@
+<style>
+	/* CSS Code */
+	/* Heading */
+	h1 {
+		color: orangered;
+		font-size: 45px;
+	}
+	body{
+
+		background-color: brown;
+	}
+
+	
+
+	/* Main Contianer */
+	#main {
+		text-align: center;
+	}
+
+	/* Game Instruction Text */
+	#ins {
+		font-family: Verdana,
+			Geneva, Tahoma, sans-serif;
+			
+		color: dodgerblue;
+		font-size: 17px;
+	}
+</style>
